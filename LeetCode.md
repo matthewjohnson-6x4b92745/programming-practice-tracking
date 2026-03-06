@@ -113,4 +113,5 @@
 | 20260303       | (Easy)     | 231. Power Of Two                                                          |
 | 20260304       | (Easy)     | 232. Implement Queue Using Stacks                                          |
 | 20260305       | (Easy)     | 234. Palindrome Linked List                                                |
+| 20260306       | (Easy)     | 242. Valid Anagram                                                         |
 
