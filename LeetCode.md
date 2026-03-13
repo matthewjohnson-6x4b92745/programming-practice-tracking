@@ -118,4 +118,5 @@
 | 20260309       | (Easy)     | 258. Add Digits                                                            |
 | 20260310       | (Easy)     | 263. Numbers Without Prime Factors Greater Than 5                          |
 | 20260311       | (Easy)     | 268. Missing Number                                                        |
+| 20260312       | (Easy)     | 278. First Bad Version                                                     |
 
