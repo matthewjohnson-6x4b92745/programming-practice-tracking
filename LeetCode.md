@@ -120,4 +120,5 @@
 | 20260311       | (Easy)     | 268. Missing Number                                                        |
 | 20260312       | (Easy)     | 278. First Bad Version                                                     |
 | 20260313       | (Easy)     | 283. Move Zeros                                                            |
+| 20260314       | (Easy)     | 290. Word Pattern                                                          |
 
