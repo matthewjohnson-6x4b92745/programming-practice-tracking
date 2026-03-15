@@ -121,4 +121,5 @@
 | 20260312       | (Easy)     | 278. First Bad Version                                                     |
 | 20260313       | (Easy)     | 283. Move Zeros                                                            |
 | 20260314       | (Easy)     | 290. Word Pattern                                                          |
+| 20260315       | (Easy)     | 292. Nim Game                                                              |
 
