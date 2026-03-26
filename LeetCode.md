@@ -128,4 +128,5 @@
 | 20260321       | (Easy)     | 344. Reverse String                                                        |
 | 20260322       | (Medium)   | 92. Reverse Linked List II                                                 |
 | 20260323       | (Medium)   | 93. Restore IP Addresses                                                   |
+| 20260325       | (Easy)     | 345. Reverse Vowels of a String                                            |
 
