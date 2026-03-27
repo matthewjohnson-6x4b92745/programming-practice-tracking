@@ -129,4 +129,5 @@
 | 20260322       | (Medium)   | 92. Reverse Linked List II                                                 |
 | 20260323       | (Medium)   | 93. Restore IP Addresses                                                   |
 | 20260325       | (Easy)     | 345. Reverse Vowels of a String                                            |
+| 20260326       | (Easy)     | 349. Intersection of Two Arrays                                            |
 
