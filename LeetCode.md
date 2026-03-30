@@ -132,4 +132,5 @@
 | 20260326       | (Easy)     | 349. Intersection of Two Arrays                                            |
 | 20260327       | (Easy)     | 350. Intersection of Two Arrrays II                                        |
 | 20260328       | (Medium)   | 96. Unique Binary Search Trees                                             |
+| 20260329       | (Hard)     | 32. Longest Valid Parenthesis                                              |
 
