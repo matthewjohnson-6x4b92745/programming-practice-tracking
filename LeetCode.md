@@ -142,4 +142,4 @@
 | 20260406       | (Easy)     | 392. Is Subsequence                                                        |
 | 20260407       | (Easy)     | 401. Binary Watch                                                          |
 | 20260408       | (Easy)     | 404. Sum of Left Leaves                                                    |
-
+| 20260409       | (Easy)     | 405. Convert a Number to Hexadecimal                                       |
