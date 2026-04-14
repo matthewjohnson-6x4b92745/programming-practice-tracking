@@ -146,4 +146,5 @@
 | 20260410       | (Easy)     | 410. Longest Palindrome                                                    |
 | 20260411       | (Easy)     | 412. Fizz Buzz                                                             |
 | 20260412       | (Easy)     | 414. Third Maximum Number                                                  |
+| 20260413       | (Easy)     | 415. Add Strings                                                           |
 
