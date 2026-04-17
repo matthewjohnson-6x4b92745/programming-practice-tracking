@@ -149,4 +149,5 @@
 | 20260413       | (Easy)     | 415. Add Strings                                                           |
 | 20260415       | (Medium)   | 91. Decode Ways                                                            |
 | 20260416       | (Easy)     | 434. Number of Segments in a String                                        |
+| 20260417       | (Easy)     | 441. Arranging Coins                                                       |
 
