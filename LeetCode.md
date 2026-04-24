@@ -155,4 +155,5 @@
 | 20260420       | (Easy)     | 459. Repeated Substring Pattern                                            |
 | 20260421       | (Easy)     | 461. Hamming Distance                                                      |
 | 20260422       | (Easy)     | 463. Island Perimeter                                                      |
+| 20260423       | (Easy)     | 476. Number Complement                                                     |
 
