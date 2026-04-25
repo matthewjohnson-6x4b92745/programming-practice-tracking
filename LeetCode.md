@@ -157,4 +157,4 @@
 | 20260422       | (Easy)     | 463. Island Perimeter                                                      |
 | 20260423       | (Easy)     | 476. Number Complement                                                     |
 | 20260424       | (Easy)     | 482. License Key Formatting                                                |
-
+| 20260425       | (Easy)     | 485. Max Consecutive Ones                                                  |
