@@ -267,4 +267,5 @@
 | 20260819       | (Easy)     | 999. Available Captures for Rook                                           |
 | 20260820       | (Easy)     | 1002. Find Common Characters                                               |
 | 20260821       | (Easy)     | 1005. Maximize Sum of Array After K Negations                              |
+| 20260822       | (Easy)     | 1009. Complement of Base 10 Integer                                        |
 
