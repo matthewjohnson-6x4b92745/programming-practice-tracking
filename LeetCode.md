@@ -269,4 +269,5 @@
 | 20260821       | (Easy)     | 1005. Maximize Sum of Array After K Negations                              |
 | 20260822       | (Easy)     | 1009. Complement of Base 10 Integer                                        |
 | 20260830       | (Easy)     | 976. Largest Perimeter Triangle                                            |
+| 20260903       | (Easy)     | 1018. Binary Prefix Divisible By 5                                         |
 
