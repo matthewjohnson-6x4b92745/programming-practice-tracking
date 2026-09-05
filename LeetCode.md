@@ -270,4 +270,5 @@
 | 20260822       | (Easy)     | 1009. Complement of Base 10 Integer                                        |
 | 20260830       | (Easy)     | 976. Largest Perimeter Triangle                                            |
 | 20260903       | (Easy)     | 1018. Binary Prefix Divisible By 5                                         |
+| 20260904       | (Easy)     | 1021. Remove Outermost Parentheses                                         |
 
