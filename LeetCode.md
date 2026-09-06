@@ -271,4 +271,5 @@
 | 20260830       | (Easy)     | 976. Largest Perimeter Triangle                                            |
 | 20260903       | (Easy)     | 1018. Binary Prefix Divisible By 5                                         |
 | 20260904       | (Easy)     | 1021. Remove Outermost Parentheses                                         |
+| 20260905       | (Easy)     | 1022. Sum of Root To Leaf Binary Numbers                                   |
 
