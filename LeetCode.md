@@ -273,4 +273,5 @@
 | 20260904       | (Easy)     | 1021. Remove Outermost Parentheses                                         |
 | 20260905       | (Easy)     | 1022. Sum of Root To Leaf Binary Numbers                                   |
 | 20260906       | (Easy)     | 1025. Nim Variant                                                          |
+| 20260907       | (Easy)     | 1030. Matrix Cells in Distance Order                                       |
 
